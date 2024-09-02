@@ -2,8 +2,8 @@ package controller
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/haojianuo/my_gateway/dto"
-	"github.com/haojianuo/my_gateway/middleware"
+	"github.com/haojianuo/go_gateway/dto"
+	"github.com/haojianuo/go_gateway/middleware"
 )
 
 type AdminLoginController struct{}

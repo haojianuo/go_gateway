@@ -2,7 +2,7 @@ package dto
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/haojianuo/my_gateway/public"
+	"github.com/haojianuo/go_gateway/public"
 )
 
 type AdminLoginInput struct {

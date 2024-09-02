@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/e421083458/golang_common/lib"
-	"github.com/haojianuo/my_gateway/router"
+	"github.com/haojianuo/go_gateway/router"
 	"os"
 	"os/signal"
 	"syscall"

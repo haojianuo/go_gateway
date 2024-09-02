@@ -3,9 +3,9 @@ package services
 import (
 	"github.com/e421083458/golang_common/lib"
 	"github.com/gin-gonic/gin"
-	"github.com/haojianuo/my_gateway/dao"
-	"github.com/haojianuo/my_gateway/dto"
-	"github.com/haojianuo/my_gateway/middleware"
+	"github.com/haojianuo/go_gateway/dao"
+	"github.com/haojianuo/go_gateway/dto"
+	"github.com/haojianuo/go_gateway/middleware"
 )
 
 type ApiService struct {

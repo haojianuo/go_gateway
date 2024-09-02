@@ -1,4 +1,4 @@
-module github.com/haojianuo/my_gateway
+module github.com/haojianuo/go_gateway
 
 go 1.14
 
